@@ -6,7 +6,8 @@ This _**Python 2.7**_ program uses the method of **Brute Force** to solve a _sal
   -supports Linux and macOS
 
 # Tools: 
--Dictionary included in folder, if not found - link to dictonary text file --->  (https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt) into project folder(for ease of use). Save file as "10-million-password-list-top-1000000.txt", or name it what you want, just make sure you _change the file name in the open/read function on line: 3_. 
+-Dictionary included in folder, if not found - link to dictonary text file --->  (https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt) 
+* download into project folder(for ease of use). Save file as "10-million-password-list-top-1000000.txt", or name it what you want, just make sure you _change the file name in the open/read function on line: 3_. 
 
 # Running Program:
 Salty_Brute is ran through commanline arguments.
