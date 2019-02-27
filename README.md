@@ -6,13 +6,13 @@ This _**Python 2.7**_ program uses the method of **Brute Force** to solve a _sal
   -supports Linux and macOS
 
 # Tools: 
--Download this dictonary text file (https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt) into project folder(for ease of use). Save file as "10-million-password-list-top-1000000.txt", or name it what you want, just make sure you _change the file name in the open/read function on line: 3_. 
+-Download this dictonary text file --->  (https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt) into project folder(for ease of use). Save file as "10-million-password-list-top-1000000.txt", or name it what you want, just make sure you _change the file name in the open/read function on line: 3_. 
 
 # Running Program:
 Salty_Brute is ran through commanline arguments.
-  -Open terminal and navigate to folder `Brute`
-  -type in, `python `PATH to `Salty_Brute.py` `salt hash` `password hash`
-    (ex. python /home/DarthBane/PycharmProjects/Brute/`Salty_Brute.py` f0744d60dd500c92c0d37c16174cc58d3c4bdd8e      ece4bb07f2580ed8b39aa52b7f7f918e43033ea1)
+*Open terminal and navigate to folder `Brute`
+*type in, `python `PATH to `Salty_Brute.py` `salt hash` `password hash`
+  *(ex. python /home/DarthBane/PycharmProjects/Brute/`Salty_Brute.py` f0744d60dd500c92c0d37c16174cc58d3c4bdd8e      ece4bb07f2580ed8b39aa52b7f7f918e43033ea1)
  
 
 # Solution:
