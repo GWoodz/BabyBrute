@@ -10,9 +10,9 @@ This _**Python 2.7**_ program uses the method of **Brute Force** to solve a _sal
 
 # Running Program:
 Salty_Brute is ran through commanline arguments.
-*Open terminal and navigate to folder `Brute`
-*type in, `python `PATH to `Salty_Brute.py` `salt hash` `password hash`
-  *(ex. python /home/DarthBane/PycharmProjects/Brute/`Salty_Brute.py` f0744d60dd500c92c0d37c16174cc58d3c4bdd8e      ece4bb07f2580ed8b39aa52b7f7f918e43033ea1)
+* Open terminal and navigate to folder `Brute`
+* type in, `python `PATH to `Salty_Brute.py` `salt hash` `password hash`
+  * (ex. python /home/DarthBane/PycharmProjects/Brute/`Salty_Brute.py` f0744d60dd500c92c0d37c16174cc58d3c4bdd8e      ece4bb07f2580ed8b39aa52b7f7f918e43033ea1)
  
 
 # Solution:
