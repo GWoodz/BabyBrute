@@ -1,4 +1,4 @@
-# BabyBrute
+# SaltyBrute
 
 This _**Python 2.7**_ program uses the method of **Brute Force** to solve a _salted sha-1 hash_. In this program, taks two hashes and a dictonary file. Hashing the words _one-by-one_ in the file and then _comparing_ hashed words with the user's _input hash_ to solve.  
 
